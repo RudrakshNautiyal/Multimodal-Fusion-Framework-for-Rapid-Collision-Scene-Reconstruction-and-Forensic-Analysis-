@@ -76,13 +76,13 @@ DUSt3R/MASt3R and SAM-2 require a CUDA-enabled PyTorch installation and are inst
 
 ## Roadmap
 
-- [x] Edge-node firmware validated in Wokwi simulation
-- [ ] Physical ESP32 + MPU6050 + NEO-6M assembly
-- [ ] Telemetry storage (PostgreSQL)
-- [ ] DUSt3R/MASt3R reconstruction
-- [ ] SAM-2 damage segmentation
-- [ ] Dashboard and PDF report
-- [ ] Dataset publication
+- Edge-node firmware validated in Wokwi simulation
+- Physical ESP32 + MPU6050 + NEO-6M assembly
+- Telemetry storage (PostgreSQL)
+- DUSt3R/MASt3R reconstruction
+- SAM-2 damage segmentation
+- Dashboard and PDF report
+- Dataset publication
 
 ## Team
 
