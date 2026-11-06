@@ -1,6 +1,6 @@
 # Multimodal Fusion Framework for Rapid Collision Scene Reconstruction and Forensic Analysis
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 
 **CrashTwin3D** fuses in-vehicle IoT telemetry with feed-forward 3D reconstruction of a crash scene captured on an uncalibrated smartphone. It then computes forensic metrics and generates a PDF report.
